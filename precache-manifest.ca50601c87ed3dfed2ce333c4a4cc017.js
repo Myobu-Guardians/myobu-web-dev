@@ -4,12 +4,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": ".htaccess"
   },
   {
-    "revision": "7607b33b7e47d5fcdc96",
-    "url": "css/app.74e9fb89.css"
+    "revision": "db79d2a05e94d3f0d587",
+    "url": "css/app.4da6d452.css"
   },
   {
     "revision": "5115ad6ccdc4326ff916",
     "url": "css/chunk-vendors.766e333d.css"
+  },
+  {
+    "revision": "1548e8b23045c1c3c9db97927b46058a",
+    "url": "files/Cybersecurity_Audit_CTDSEC_MyobuDAOv2.pdf"
   },
   {
     "revision": "2c454669bdf3aebf32a1bd8ac1e0d2d6",
@@ -602,6 +606,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a61da8e203efc6ddf8be108c074e44e9",
     "url": "img/et.a61da8e2.svg"
+  },
+  {
+    "revision": "5a4330e8c17c12a2d0c1625cb204f3e4",
+    "url": "img/eth-small.png"
   },
   {
     "revision": "86b356aa4636232f3e200c65d2a8b6b4",
@@ -2376,12 +2384,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/zw.58e2cbd6.svg"
   },
   {
-    "revision": "ea709d3f014ffe59b5a7e553fab500aa",
+    "revision": "007b1c859feb18e75a86bbf4c4cd9c5e",
     "url": "index.html"
   },
   {
-    "revision": "7607b33b7e47d5fcdc96",
-    "url": "js/app.5a102d78.js"
+    "revision": "db79d2a05e94d3f0d587",
+    "url": "js/app.b8172b8c.js"
   },
   {
     "revision": "5115ad6ccdc4326ff916",
