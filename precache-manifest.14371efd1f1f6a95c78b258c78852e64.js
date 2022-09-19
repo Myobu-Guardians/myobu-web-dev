@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": ".htaccess"
   },
   {
-    "revision": "5722f128fb43458d3671",
-    "url": "css/app.01c3725c.css"
+    "revision": "cf988cad8f556321eaa3",
+    "url": "css/app.f65892b7.css"
   },
   {
     "revision": "5115ad6ccdc4326ff916",
@@ -2384,12 +2384,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/zw.58e2cbd6.svg"
   },
   {
-    "revision": "7293936de1a20506e23454637588fd07",
+    "revision": "5487c44d76b42410907c18a26f54fe39",
     "url": "index.html"
   },
   {
-    "revision": "5722f128fb43458d3671",
-    "url": "js/app.fd914241.js"
+    "revision": "cf988cad8f556321eaa3",
+    "url": "js/app.63bd0a1d.js"
   },
   {
     "revision": "5115ad6ccdc4326ff916",
