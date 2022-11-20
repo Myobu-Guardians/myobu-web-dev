@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": ".htaccess"
   },
   {
-    "revision": "db1869a67d8b032fba3e",
-    "url": "css/app.4ab802c5.css"
+    "revision": "b8e8976abc59dc63d542",
+    "url": "css/app.7d5d2356.css"
   },
   {
     "revision": "5115ad6ccdc4326ff916",
@@ -1652,6 +1652,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/re.9c769f63.svg"
   },
   {
+    "revision": "bb41d32d14b3272c41bb13d8d475093f",
+    "url": "img/realm/logo-black.png"
+  },
+  {
+    "revision": "86048ee4587d3c53248e89ec1f1ddee3",
+    "url": "img/realm/logo.png"
+  },
+  {
     "revision": "399ed412e355d6468b2a7d99b90a1f07",
     "url": "img/redesign/checked.png"
   },
@@ -2388,12 +2396,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/zw.58e2cbd6.svg"
   },
   {
-    "revision": "ea6f310a2e7f8b05a26309a992ed1b29",
+    "revision": "e2753657e22b27bb709445d90a73adf6",
     "url": "index.html"
   },
   {
-    "revision": "db1869a67d8b032fba3e",
-    "url": "js/app.5495f6b6.js"
+    "revision": "b8e8976abc59dc63d542",
+    "url": "js/app.7b2afadd.js"
   },
   {
     "revision": "5115ad6ccdc4326ff916",
